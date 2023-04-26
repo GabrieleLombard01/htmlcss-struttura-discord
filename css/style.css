@@ -45,6 +45,9 @@ li{
 .whitebg{
     background-color: white;
 }
+.greybg{
+    background-color: #d3d3d3;
+}
 .lightblue_section{
     background-color: #1e90ff;
     min-height: 250px;
