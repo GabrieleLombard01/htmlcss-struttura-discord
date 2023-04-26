@@ -42,10 +42,29 @@ li{
     display: flex;
     justify-content: center;
 }
+.whitebg{
+    background-color: white;
+}
+.lightblue_section{
+    background-color: #1e90ff;
+    min-height: 250px;
+    width: 350px;
+    border: dotted black 1px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.lightpink_section{
+    background-color: #ffc0cb;
+    min-height: 250px;
+    width: 200px;
+    border: dotted black 1px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
 /*header*/
 #largesquare_sidebar{
     background-color: #daa520;
-    min-height: 30px;
+    min-height: 50px;
     width: 450px;
     border: dotted black 1px;
 }
