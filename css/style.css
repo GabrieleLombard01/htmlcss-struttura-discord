@@ -17,8 +17,13 @@ li{
     list-style: none;
     display: inline-block;
 }
+hr{
+    color: #daa520;
+    background-color: #daa520;
+}
 footer{
     background-color: #23272a;
+    padding-bottom: 10px;
 }
 /*Utilties*/
 .sidebar{
@@ -75,7 +80,23 @@ footer{
     margin-top: 20px;
     margin-bottom: 20px; 
 }
-
+.footer_row{
+    background-color: #7fffd4;
+    margin: 0 auto;
+    min-height: 40px;
+    width: 550px;
+    margin-top: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+.button_foot{
+    background-color: #ffb6c1;
+    min-height: 20px;
+    width: 60px;
+    border: dotted black 1px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
 /*header*/
 #largesquare_sidebar{
     background-color: #daa520;
