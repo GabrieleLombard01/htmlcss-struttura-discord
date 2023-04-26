@@ -35,10 +35,30 @@ li{
     padding-top: 5px;
     padding-left: 10px;
 }
+.conteiner{
+    margin: 0 auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: flex;
+    justify-content: center;
+}
 /*header*/
 #largesquare_sidebar{
     background-color: #daa520;
     min-height: 30px;
     width: 450px;
     border: dotted black 1px;
+}
+/*Jumbotron*/
+#bg_blue{
+    background-color: blue;
+    
+}
+#first_pinksection{
+    background-color: #ee82ee;
+    min-height: 200px;
+    width: 550px;
+    border: dotted black 1px;
+    margin-top: 20px;
+    margin-bottom: 20px; 
 }
