@@ -29,7 +29,7 @@ li{
 }
 .smallsquare_sidebar{
     background-color: #daa520;
-    min-height: 30px;
+    min-height: 20px;
     width: 150px;
     border: dotted black 1px;
     padding-top: 5px;
@@ -74,11 +74,19 @@ li{
 /*Jumbotron*/
 #bg_blue{
     background-color: blue;
-    
 }
 #first_pinksection{
     background-color: #ee82ee;
     min-height: 200px;
+    width: 450px;
+    border: dotted black 1px;
+    margin-top: 20px;
+    margin-bottom: 20px; 
+}
+/*Sections*/
+#green_section{
+    background-color: #228b22;
+    min-height: 400px;
     width: 550px;
     border: dotted black 1px;
     margin-top: 20px;
