@@ -10,6 +10,8 @@
 /*Generics*/
 ul{
     text-align: center;
+    word-spacing: 15px;
+    padding-top: 5px;
 }
 li{
     list-style: none;
@@ -30,6 +32,8 @@ li{
     min-height: 30px;
     width: 150px;
     border: dotted black 1px;
+    padding-top: 5px;
+    padding-left: 10px;
 }
 /*header*/
 #largesquare_sidebar{
