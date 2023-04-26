@@ -17,6 +17,9 @@ li{
     list-style: none;
     display: inline-block;
 }
+footer{
+    background-color: #23272a;
+}
 /*Utilties*/
 .sidebar{
     background-color: #add8e6;
@@ -64,6 +67,15 @@ li{
     margin-top: 20px;
     margin-bottom: 20px;
 }
+.lightgreen_section{
+    background-color: #20b2aa;
+    width: 92px;
+    min-height: 250px;
+    border: dotted black 1px;
+    margin-top: 20px;
+    margin-bottom: 20px; 
+}
+
 /*header*/
 #largesquare_sidebar{
     background-color: #daa520;
@@ -78,7 +90,7 @@ li{
 #first_pinksection{
     background-color: #ee82ee;
     min-height: 200px;
-    width: 450px;
+    width: 480px;
     border: dotted black 1px;
     margin-top: 20px;
     margin-bottom: 20px; 
@@ -88,6 +100,15 @@ li{
     background-color: #228b22;
     min-height: 400px;
     width: 550px;
+    border: dotted black 1px;
+    margin-top: 20px;
+    margin-bottom: 20px; 
+}
+/*Footer*/
+#red_section{
+    background-color: #f08080;
+    width: 183px;
+    min-height: 250px;
     border: dotted black 1px;
     margin-top: 20px;
     margin-bottom: 20px; 
