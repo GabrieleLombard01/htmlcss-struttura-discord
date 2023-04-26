@@ -19,7 +19,10 @@ li{
 .sidebar{
     background-color: #add8e6;
     margin: 0 auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
     display: flex;
+    justify-content: center;
 
 }
 .smallsquare_sidebar{
